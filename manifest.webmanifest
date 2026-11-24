@@ -1,0 +1,10 @@
+{
+  "name": "Tic Tac Toe Universe",
+  "short_name": "TTT Universe",
+  "description": "A universe of strategy.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#11111b",
+  "theme_color": "#11111b",
+  "icons": []
+}
